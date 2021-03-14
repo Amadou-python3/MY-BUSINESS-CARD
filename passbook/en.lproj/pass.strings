@@ -1,0 +1,60 @@
+"frontHigh_label" = "Meu nome é";
+"frontHigh_value" = "AMADOU TRAORE";
+
+"frontMainPhone_label" = "iPhone";
+"frontMainPhone_value" = "()+225) 070812-5509";
+
+"frontTitle_value" = "Consultor Cloud e DevOps";
+
+"frontSocial_label" = "About me";
+"frontSocial_value" = "@amadou-python3.com";
+
+"frontEmail_label" = "🚫 E-mail (evite)";
+"frontEmail_value" = "traoreamadouetep2016@gmail.com";
+
+"backTitle_label" = "☀️ O que eu faço";
+"backTitle_value" = "Consultor na IBM para soluções de agilidade (☁Cloud, ⚭TI Bimodal, ☯DevOps) que habilitam inovações na 3ª Plataforma para mobilidade, engajamento do usuário e analítica";
+"backTitle_attributedValue" = "Arquiteto na IBM para soluções de agilidade (☁Cloud, <a href=\"https://www.ibm.com/developerworks/community/blogs/5things/entry/5_things_to_know_about_two_speed_integration_by_ibm\">⚭TI Bimodal</a>, <a href=\"https://pt.wikipedia.org/wiki/DevOps\">☯DevOps</a>) que habilitam inovações na <a href=\"http://en.wikipedia.org/wiki/Third_platform\">3ª Plataforma</a> para mobilidade, engajamento do usuário e analítica";
+
+"backURL_label" = "❤️ Soluções de Agilidade, Analítica e Mobilidade que eu adoro";
+"backURL_value" = "Bluemix (PaaS), SoftLayer (IaaS), IBM Cloud Orchestrator (powered by OpenStack), urban{code}, Watson, MobileFirst";
+"backURL_attributedValue" = "<a href=\"https://bluemix.net/\">Bluemix</a> (PaaS), <a href=\"http://www.softlayer.com/\">SoftLayer</a> (IaaS), <a href=\"http://ibm.com/software/products/en/ibm-cloud-orchestrator\">IBM Cloud Orchestrator</a> (powered by <a href=\"https://www.openstack.org\">OpenStack</a>), <a href=\"https://developer.ibm.com/urbancode/\">urban{code}</a>, <a href=\"http://ibm.com/smarterplanet/us/en/ibmwatson/\">Watson</a>, <a href=\"http://www.ibm.com/mobilefirst/\">MobileFirst</a>";
+
+"backSocial_label" = "💬 Encontre-me nas redes sociais como";
+"backSocial_attributedValue" = "🅸 <a href=\"https://linkedin.com/in/amadou-traore-a611b1124">LinkedIn</a>\n🅵 <a href=\"http://facebook.com/jjfashion-traore">Facebook</a>\n🆃 <a href=\"http://twitter.com/amadou-python3">Twitter</a>\n🅶 <a href=\"https://plus.google.com/+traoreamadouetep2016\">Google Plus</a>\n✚ Todas as outras: amadou-python3";
+
+"backMobile_value" = "(+225) 070812-5509 (funciona com iMessage, FaceTime, WhatsApp e Hangouts)";
+
+"backPhone_label" = "☎️ Telefone";
+"backPhone_value" = "(+225) 070812-5509";
+
+"backConference_label" = "Serviço de conferência";
+"backConference_value" = "https://www.github.com/Amadou-python3";
+
+"backSIP_label" = "Endereço para YAHOO";
+"backSIP_value" = "Amadou-python3@outlook.com";
+
+"backAddress_label" = "🏢 Endereço";
+"backAddress_value" = "R. COCODY DEUX PLATEAUX • ABJ • IVORY COAST";
+
+"backBitcoin_label" = "💰 Mande-me ฿itcoins";
+"backBitcoin_value" = "12T3pZEvauShDdyvyE8gnRN4q9UePkdkPS";
+"backBitcoin_attributedValue" = "<a href=\"bitcoin:12T3pZEvauShDdyvyE8gnRN4q9UePkdkPS\">12T3pZEvauShDdyvyE8gnRN4q9UePkdkPS</a>";
+
+"backWarning_label" = "✋ ATENÇÃO";
+"backWarning_value" = "E-mail é a pior forma de me contactar. Por favor prefira WhatsApp, iMessage, FaceTime, Facebook e Hangouts com meu telefone ou endereço de e-mail.";
+
+"backMore_label" = "📇 Meu cartão de visita em VCF e outros formatos";
+"backMore_value" = "https://amadou-python3.herokuapp.com/";
+"backMore_attributedValue" = "• <a href=\"../vcard.vcf\">Adicione-me aos contatos</a>\n• <a href=\"https://amadou-python3.herokuapp.com/">Veja meu cartão de visita em outros formatos</a>";
+
+"backPoweredBy_label" = "Powered by";
+"backPoweredBy_value" = "O projeto Digital Business Card project no GitHub: https://github.com/Amadou-python3";
+"backPoweredBy_attributedValue" = "O projeto <a href=\"https://github.com/Amadou-python3">Digital Business Card</a>";
+
+"backSignature_label" = "oʇdıɹƆ";
+"backSignature_value" = "Assinado digitalmente por Avi Alkalay.";
+
+"locationsRelevantText_value" = "COCODY DEUX PLATEAUX";
+
+"beaconsRelevantText_value" = "ABIDJAN";

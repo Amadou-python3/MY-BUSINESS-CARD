@@ -1,0 +1,103 @@
+var obj =
+{
+	/*
+		Everywhere the emailchar appears on values, it will be substituted by "@". This
+		is to make more difficult the life of e-mail address crawlers.
+	*/
+	"emailchar": "ⓐ",
+
+	"ganalytics": "UA-629709-5",
+
+	"name": {
+		"first": "AMADOU",
+		"last": "TRAORE",
+	},
+	"title": "Data Scientist, Data Engineer, Bug Bouty Hunter, Ethical Hacker, Supply Chain Manager (Stock Manager)",
+	"company": "Working at Home",
+	"department": "Computer Junkies",
+
+	"columns": {
+		"1": ["phone", "publications", "other","mail"],
+		"2": ["social", "",            "",     "qrcode"]
+	},
+
+	"section": {
+		"phone": [
+			{
+				"value": "(+225) 070812-5509",
+				"label": "mobile",
+				"microformatTag": "mobile",
+				"vcfTag": "mobile"
+			},
+			{
+				"value": "traoreamadouetep2016ⓐgmail.com",
+				"label": "facetime"
+			},
+			{
+				"value": "traoreamadouetep2016ⓐgmail.com",
+				"label": "hangouts"
+			},
+			{
+				"value": "Amadou-python3",
+				"label": "skype"
+			},
+		],
+
+		"mail": [
+			{
+				"value": "amadou-python3@outlook.com",
+				"label": "work"
+			},
+			{
+				"value": "traoreamadouetep2016@gmail.com",
+				"label": "personal"
+			},
+		],
+
+		"social": [
+			{
+				"value": "amadou-traore-a611b1124",
+				"label": "linkedin"
+			},
+			{
+				"value": "jjfashion-traore",
+				"label": "facebook"
+			},
+			{
+				"value": "amadou-python3",
+				"label": "github"
+			}
+		],
+
+		"publications": [
+			{
+				"value": "github.com/Amadou-python3",
+				"label": "blog",
+				"protocol": "https"
+			},
+			{
+				"value": "fb.com/jjfashion-traore",
+				"label": "facebook",
+				"protocol": "https"
+			},
+			{
+				"value": "about.me/amadou-python3.com",
+				"label": "about-me",
+				"protocol": "https"
+			}
+		],
+
+		"other": [
+			{
+				"label": "Bitcoin",
+				"value": "12T3pZEvauShDdyvyE8gnRN4q9UePkdkPS"
+			}
+		],
+
+		"qrcode": [
+			{
+				"label": "Scan with iPhone camera, Wallet or any QR reader"
+			}
+		]
+	}
+};
